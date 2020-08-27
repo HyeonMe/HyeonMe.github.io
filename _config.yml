@@ -17,8 +17,9 @@
 ## => Site Settings
 ##############################
 remote_theme : kitian616/jekyll-TeXt-theme
-text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+minimal_mistakes_skin    : "default" 
+text_skin: "default" # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: "default" # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : "https://HyeonMe.github.io"
 baseurl :""
 title   : "HyeonMe"
